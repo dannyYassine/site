@@ -1,3 +1,9 @@
+<?php
+
+$directory = __DIR__;
+
+?>
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -8,11 +14,11 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     <!-- Stylesheets -->
-    <link rel="stylesheet" href="<?__DIR__?>/bootstrap.min.css"/>
-    <link rel="stylesheet" href="<?__DIR__?>/css/reset.css"/>
-    <link rel="stylesheet" href="<?__DIR__?>/css/magnific-popup.css"/>
-    <link rel="stylesheet" href="<?__DIR__?>/css/animate.css"/>
-    <link rel="stylesheet" href="<?__DIR__?>/css/style.css"/>
+    <link rel="stylesheet" href="<?=$directory?>/bootstrap.min.css"/>
+    <link rel="stylesheet" href="<?=$directory?>/css/reset.css"/>
+    <link rel="stylesheet" href="<?=$directory?>/css/magnific-popup.css"/>
+    <link rel="stylesheet" href="<?=$directory?>/css/animate.css"/>
+    <link rel="stylesheet" href="<?=$directory?>/css/style.css"/>
 
     <!--[if lt IE 9]>
     <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
@@ -24,8 +30,8 @@
     <link rel="stylesheet" media="screen" href="https://fontlibrary.org/face/bebas" type="text/css"/>
 
     <!-- Font icons -->
-    <link rel="stylesheet" href="<?__DIR__?>/icon-fonts/fontawesome-5.0.6/css/fontawesome-all.min.css"/>
-    <link rel="stylesheet" href="<?__DIR__?>/icon-fonts/etlinefont/style.css"/>
+    <link rel="stylesheet" href="<?=$directory?>/icon-fonts/fontawesome-5.0.6/css/fontawesome-all.min.css"/>
+    <link rel="stylesheet" href="<?=$directory?>/icon-fonts/etlinefont/style.css"/>
 
 </head>
 <body>
@@ -100,7 +106,7 @@ Created by tavonline</p> -->
         </div>
         <div class="row bottom_60 top_90">
             <div class="col-lg-5 col-md-6 image wow fadeInUp" data-wow-delay="0.4s">
-                <img src="<?__DIR__?>/images/about.jpg" alt="">
+                <img src="<?=$directory?>/images/about.jpg" alt="">
             </div>
             <div class="col-lg-6 col-md-6 offset-lg-1 text wow fadeInUp" data-wow-delay="0.6s">
                 <p>A collection of textile samples lay spread out on the table Samsa was a travelling salesman and above it there hung a picture that he had recently cut out of an illustrated magazine and housed in a nice, gilded frame.</p>
@@ -187,27 +193,27 @@ Created by tavonline</p> -->
                     <!-- Item -->
                     <a href="https://www.youtube.com/watch?v=M-M3rdL_WLQ" class="popup-youtube single_item link development col-md-4 col-sm-6 wow fadeInUp" data-wow-delay="0.4s">
                         <i class="fa fa-play" aria-hidden="true"></i>
-                        <img src="<?__DIR__?>/images/work-1.jpg" alt="">
+                        <img src="<?=$directory?>/images/work-1.jpg" alt="">
                     </a>
                     <!-- Item -->
                     <a href="images/work-2.jpg" class="single_item link aplication col-md-4 col-sm-6 wow fadeInUp" data-wow-delay="0.6s">
-                        <img src="<?__DIR__?>/images/work-2.jpg" alt="">
+                        <img src="<?=$directory?>/images/work-2.jpg" alt="">
                     </a>
                     <!-- Item -->
                     <a href="images/work-3.jpg" class="single_item link development col-md-4 col-sm-6 wow fadeInUp" data-wow-delay="0.8s">
-                        <img src="<?__DIR__?>/images/work-3.jpg" alt="">
+                        <img src="<?=$directory?>/images/work-3.jpg" alt="">
                     </a>
                     <!-- Item -->
                     <a href="images/work-4.jpg" class="single_item link web-design col-md-4 col-sm-6 wow fadeInUp" data-wow-delay="1.0s">
-                        <img src="<?__DIR__?>/images/work-4.jpg" alt="">
+                        <img src="<?=$directory?>/images/work-4.jpg" alt="">
                     </a>
                     <!-- Item -->
                     <a href="images/work-5.jpg" class="single_item link aplication col-md-4 col-sm-6 wow fadeInUp" data-wow-delay="1.2s">
-                        <img src="<?__DIR__?>/images/work-5.jpg" alt="">
+                        <img src="<?=$directory?>/images/work-5.jpg" alt="">
                     </a>
                     <!-- Item -->
                     <a href="images/work-6.jpg" class="single_item link aplication col-md-4 col-sm-6 wow fadeInUp" data-wow-delay="1.4s">
-                        <img src="<?__DIR__?>/images/work-6.jpg" alt="">
+                        <img src="<?=$directory?>/images/work-6.jpg" alt="">
                     </a>
                 </div>
             </div>
@@ -232,7 +238,7 @@ Created by tavonline</p> -->
             <!-- blog 1 -->
             <a href="single-blog.html" class="col-md-4 blog wow fadeInUp" data-wow-delay="0.4s">
                 <div class="image">
-                    <img src="<?__DIR__?>/images/blog-1.jpg" alt="">
+                    <img src="<?=$directory?>/images/blog-1.jpg" alt="">
                 </div>
                 <span>LIFESTYLE</span>
                 <h3 class="title">His boss would certainly come round with the doctor from the medical...</h3>
@@ -241,7 +247,7 @@ Created by tavonline</p> -->
             <!-- blog 2 -->
             <a href="single-blog.html" class="col-md-4 blog wow fadeInUp" data-wow-delay="0.6s">
                 <div class="image">
-                    <img src="<?__DIR__?>/images/blog-2.jpg" alt="">
+                    <img src="<?=$directory?>/images/blog-2.jpg" alt="">
                 </div>
                 <span>FASHION</span>
                 <h3 class="title">Gregor then turned to look out the window at the dull weather.</h3>
@@ -250,7 +256,7 @@ Created by tavonline</p> -->
             <!-- blog 3 -->
             <a href="single-blog.html" class="col-md-4 blog wow fadeInUp" data-wow-delay="0.8s">
                 <div class="image">
-                    <img src="<?__DIR__?>/images/blog-3.jpg" alt="">
+                    <img src="<?=$directory?>/images/blog-3.jpg" alt="">
                 </div>
                 <span>EVENT</span>
                 <h3 class="title">One morning, when Gregor Samsa woke from troubled dreams.</h3>
@@ -338,12 +344,12 @@ Created by tavonline</p> -->
 
 
 <!-- Javascripts -->
-<script src="<?__DIR__?>/js/jquery-2.1.4.min.js"></script>
-<script src="<?__DIR__?>/js/typed.js"></script>
-<script src="<?__DIR__?>/js/isotope.pkgd.min.js"></script>
-<script src="<?__DIR__?>/js/jquery.magnific-popup.min.js"></script>
-<script src="<?__DIR__?>/js/wow.min.js"></script>
-<script src="<?__DIR__?>/js/main.js"></script>
+<script src="<?=$directory?>/js/jquery-2.1.4.min.js"></script>
+<script src="<?=$directory?>/js/typed.js"></script>
+<script src="<?=$directory?>/js/isotope.pkgd.min.js"></script>
+<script src="<?=$directory?>/js/jquery.magnific-popup.min.js"></script>
+<script src="<?=$directory?>/js/wow.min.js"></script>
+<script src="<?=$directory?>/js/main.js"></script>
 
 </body>
 </html>
