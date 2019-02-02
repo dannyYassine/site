@@ -129,7 +129,7 @@ Created by tavonline</p> -->
 <section class="whatwedo gray-bg padbot_120" id="whatwedo">
     <div class="container">
         <div class="section-title bottom_15">
-            <h2 class="title wow fadeInUp" data-wow-delay="0.2s">WHAT I DO<span class="number">02</span> </h2>
+            <h2 class="title wow fadeInUp" data-wow-delay="0.2s"My Passions<span class="number">02</span> </h2>
         </div>
         <div class="row bottom_60">
             <div class="col-md-4 col-sm-6 service text-center bottom_90 wow fadeInUp" data-wow-delay="0.4s">
@@ -139,13 +139,13 @@ Created by tavonline</p> -->
             </div>
             <div class="col-md-4 col-sm-6  service text-center bottom_90 wow fadeInUp" data-wow-delay="0.6s">
                 <i class="icon-tools"></i>
-                <h3 class="title top_30">Branding Identity</h3>
-                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum standard dummy text.</p>
+                <h3 class="title top_30">Architecture</h3>
+                <p>Clean code, Domain Driven Design</p>
             </div>
             <div class="col-md-4 col-sm-6  service text-center bottom_90 wow fadeInUp" data-wow-delay="0.8s">
                 <i class=" icon-paintbrush"></i>
-                <h3 class="title top_30">Graphic Design</h3>
-                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum standard dummy text.</p>
+                <h3 class="title top_30">Test Driven Development</h3>
+                <p>Yup</p>
             </div>
             <div class="col-md-4 col-sm-6  service text-center wow fadeInUp" data-wow-delay="1.0s">
                 <i class="icon-phone"></i>
@@ -159,8 +159,8 @@ Created by tavonline</p> -->
             </div>
             <div class="col-md-4 col-sm-6  service text-center wow fadeInUp" data-wow-delay="1.4s">
                 <i class="icon-lightbulb"></i>
-                <h3 class="title top_30">Creative Design</h3>
-                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum standard dummy text.</p>
+                <h3 class="title top_30">UI / UX</h3>
+                <p>If you are trying to explain something, it may already be too late.</p>
             </div>
         </div>
     </div>
@@ -177,7 +177,7 @@ Created by tavonline</p> -->
 <section class="portfolio white-bg padbot_120" id="portfolio">
     <div class="container bottom_60">
         <div class="section-title bottom_15 wow fadeInUp" data-wow-delay="0.2s">
-            <h2 class="title">PORTFOLIO<span class="number">03</span> </h2>
+            <h2 class="title">Portfolio<span class="number">03</span> </h2>
             <div class="portfolio_filter">
                 <ul>
                     <li data-filter=".web-design">Web Development</li>
@@ -233,7 +233,7 @@ Created by tavonline</p> -->
 <section class="blogs gray-bg padbot_120" id="blogs">
     <div class="container bottom_60">
         <div class="section-title bottom_15">
-            <h2 class="title wow fadeInUp" data-wow-delay="0.2s">RECENT BLOGS<span class="number">04</span> </h2>
+            <h2 class="title wow fadeInUp" data-wow-delay="0.2s">Recent Blogs<span class="number">04</span> </h2>
         </div>
         <div class="row">
             <!-- blog 1 -->
