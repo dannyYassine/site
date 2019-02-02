@@ -109,9 +109,10 @@ Created by tavonline</p> -->
                 <img src="<?=$directory?>/images/about.jpg" alt="">
             </div>
             <div class="col-lg-6 col-md-6 offset-lg-1 text wow fadeInUp" data-wow-delay="0.6s">
-                <p>A collection of textile samples lay spread out on the table Samsa was a travelling salesman and above it there hung a picture that he had recently cut out of an illustrated magazine and housed in a nice, gilded frame.</p>
-                <p> <br>
-                    I ought to just try that witht my boss; I'd get kicked out on the spot. But who kn	ows, maybe that would be the best thing for me. He'd fall right off his desk! And it's a funny sort of business to be sitting up there at your desk, talking down at your subordinates.</p>
+                <p>Experienced Mobile and Web Engineer with a demonstrated history of working and building entreprise applications.</p>
+                <br>
+                <p>Currently working as a Web Engineer for TapCanada in Montreal, Canada.</p>
+                <p> <br></p>
             </div>
         </div>
     </div>
