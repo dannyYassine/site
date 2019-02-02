@@ -137,6 +137,11 @@ Created by tavonline</p> -->
                 <h3 class="title top_30">Web Development</h3>
                 <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum standard dummy text.</p>
             </div>
+            <div class="col-md-4 col-sm-6  service text-center wow fadeInUp" data-wow-delay="1.0s">
+                <i class="icon-phone"></i>
+                <h3 class="title top_30">Mobile Development</h3>
+                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum standard dummy text.</p>
+            </div>
             <div class="col-md-4 col-sm-6  service text-center bottom_90 wow fadeInUp" data-wow-delay="0.6s">
                 <i class="icon-tools"></i>
                 <h3 class="title top_30">Architecture</h3>
@@ -147,20 +152,10 @@ Created by tavonline</p> -->
                 <h3 class="title top_30">Test Driven Development</h3>
                 <p>Yup</p>
             </div>
-            <div class="col-md-4 col-sm-6  service text-center wow fadeInUp" data-wow-delay="1.0s">
-                <i class="icon-phone"></i>
-                <h3 class="title top_30">Mobile Development</h3>
-                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum standard dummy text.</p>
-            </div>
-            <div class="col-md-4 col-sm-6  service text-center wow fadeInUp" data-wow-delay="1.2s">
-                <i class=" icon-camera"></i>
-                <h3 class="title top_30">Photography</h3>
-                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum standard dummy text.</p>
-            </div>
             <div class="col-md-4 col-sm-6  service text-center wow fadeInUp" data-wow-delay="1.4s">
                 <i class="icon-lightbulb"></i>
                 <h3 class="title top_30">UI / UX</h3>
-                <p>If you are trying to explain something, it may already be too late.</p>
+                <p>If you are trying to explain something, it may be already too late.</p>
             </div>
         </div>
     </div>
