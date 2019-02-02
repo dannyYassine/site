@@ -106,7 +106,7 @@ Created by tavonline</p> -->
         </div>
         <div class="row bottom_60 top_90">
             <div class="col-lg-5 col-md-6 image wow fadeInUp" data-wow-delay="0.4s">
-                <img src="<?=$directory?>/images/about.jpg" alt="">
+                <img src="<?=$directory?>/images/me.png" alt="">
             </div>
             <div class="col-lg-6 col-md-6 offset-lg-1 text wow fadeInUp" data-wow-delay="0.6s">
                 <p>Experienced Mobile and Web Engineer with a demonstrated history of working and building entreprise applications.</p>
