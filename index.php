@@ -129,7 +129,7 @@ Created by tavonline</p> -->
 <section class="whatwedo gray-bg padbot_120" id="whatwedo">
     <div class="container">
         <div class="section-title bottom_15">
-            <h2 class="title wow fadeInUp" data-wow-delay="0.2s"My Passions<span class="number">02</span> </h2>
+            <h2 class="title wow fadeInUp" data-wow-delay="0.2s">My Passions<span class="number">02</span> </h2>
         </div>
         <div class="row bottom_60">
             <div class="col-md-4 col-sm-6 service text-center bottom_90 wow fadeInUp" data-wow-delay="0.4s">
