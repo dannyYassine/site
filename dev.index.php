@@ -1,5 +1,5 @@
 <?php
 
-$directory = '/site/';
+$directory = '/';
 
 include_once 'site.php';
