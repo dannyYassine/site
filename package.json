@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "php -S 127.0.0.1:3010 -t ./ dev.index.php",
+    "dev": "php -S 127.0.0.1:3001 -t ./ dev.index.php",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
